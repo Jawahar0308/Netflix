@@ -1,0 +1,11 @@
+.home{
+    /* position: relative; */
+    background-image: url(./netflix\ home1_img.jpeg);
+    height: 200%;
+}
+.home_img{
+    /* position: relative; */
+    background-size:cover;
+    width: 100%;
+    height: 100%;
+}
